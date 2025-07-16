@@ -1,0 +1,15 @@
+[
+  {
+    "chainId": 103,
+    "address": "64hykKCojtxX9fp3D8bxbiic7NGzEoqnCgfXSqZvtJu7",
+    "symbol": "HARU",
+    "name": "Happy Ruble",
+    "decimals": 2,
+    "logoURI": "https://haru-olive.vercel.app/HARU.png",
+    "tags": ["utility-token"],
+    "extensions": {
+      "website": "https://haru-olive.vercel.app"
+      "telegram": "https://t.me/evteevoleg"
+    }
+  }
+]
